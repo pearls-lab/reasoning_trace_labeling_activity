@@ -1,0 +1,1 @@
+We need to play Zork I. Starting location West of House. We need to give a short command. Likely want to open mailbox. So "open mailbox".

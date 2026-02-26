@@ -4,7 +4,7 @@ This is the github repository for the in-class activity of UCSD's AI-Agent's cla
 
 There are two parts for this activity:
 
-1.) Take a reasoning trajectory from the Textworld folder and read through it. Then, create a second .txt file and note down any weird reasoning behaviors. You should copy the relevant section from the original trajectory in quotes and then describe what the issue is below. For example:
+1.) Take a reasoning trajectory from the Zork folder and read through it. Then, create a second .txt file and note down any weird reasoning behaviors. You should copy the relevant section from the original trajectory in quotes and then describe what the issue is below. For example:
 
 ---
 
@@ -13,5 +13,7 @@ There are two parts for this activity:
 Excessive token use. The model arrives at the right action after sentence 5 but continues to ramble for 6 sentences after that.
 
 ---
+
+(This is an example from textworld but same idea.)
 
 2.) Open the AIME folder and browse through reasoning_traces_A and reasoning_traces_B. Both files have reasoning traces from a model attempting a number of American Invitational Mathematics Examination problems. One file contains only reasoning trajectories that ultimately arrived at the correct answer, and one file contains only reasoning traces that arrived at the incorrect answer. Your task is to guess which file has the CORRECT traces. Note, these reasoning traces in their entirety are extremely long, so we have truncated the ones included.
