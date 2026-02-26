@@ -16,4 +16,4 @@ Excessive token use. The model arrives at the right action after sentence 5 but 
 
 (This is an example from textworld but same idea.)
 
-2.) Open the AIME folder and browse through reasoning_traces_A and reasoning_traces_B. Both files have reasoning traces from a model attempting a number of American Invitational Mathematics Examination problems. One file contains only reasoning trajectories that ultimately arrived at the correct answer, and one file contains only reasoning traces that arrived at the incorrect answer. Your task is to guess which file has the CORRECT traces. Note, these reasoning traces in their entirety are extremely long, so we have truncated the ones included.
+2.) Open the AIME folders and browse through reasoning_trace_A and reasoning_trace_B. The folders have reasoning traces from a model attempting a number of American Invitational Mathematics Examination problems. For each folder, one reasoning trace is correct and one reasoning trace is incorrect. Your task is to determine which file has the CORRECT trace. Note, these reasoning traces in their entirety are extremely long, so we have truncated the ones included.
